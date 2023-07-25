@@ -14,3 +14,24 @@ I'm looking forward to engaging with this amazing community of cybersecurity ent
 Let's learn together, share our expertise, and strengthen our collective commitment to a safer and more secure digital world. 🌐💻
 
 Stay tuned for my cybersecurity adventures and let's take on this exciting journey as we pave our path into the captivating realm of cybersecurity!
+  
+
+<h2>👨‍💻 Cybersecurity Portfolio:</h2>
+
+ - <b>IAM Home Lab Project </b>
+
+  
+
+
+- <b> Azure SOC Project  </b>
+
+
+
+- <b>Vulnerabililty Lab Project</b>
+  
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+ [| LinkedIn |](https://www.linkedin.com/in/-cperry/)
