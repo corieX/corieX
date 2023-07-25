@@ -22,8 +22,7 @@ Stay tuned for my cybersecurity adventures and let's take on this exciting journ
 
   
 
-
-- <b> Azure SOC Project  </b>
+- [Azure-SOC Project](https://github.com/corieX/Azure-SOC)
 
 
 
