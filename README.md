@@ -3,7 +3,7 @@
 
 Hello everyone! 👋
 
-I'm Corey, and I'm passionate about cybersecurity and IT. I'm excited to share my journey and progress as I make my way into the world of Information Security. 🚀
+I'm Corey, and I'm passionate about cybersecurity. I'm excited to share my journey and progress as I make my way into the world of Information Security. 🚀
 
 With a solid background in IT and a deep fascination for information security, I've decided to pivot my career towards the thrilling world of cybersecurity. My goal is to leverage my IT expertise to tackle complex security challenges and safeguard digital assets from ever-evolving threats.
 
